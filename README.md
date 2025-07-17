@@ -1,4 +1,5 @@
-🏦 Bank Management System (C++) — Summary
+🏦 Bank Management System (C++) — 
+
 This project is a command-line banking system coded in classic C++ style with old-school charm 😎. It allows users and bank staff to perform everyday banking operations through a text-based UI.
 
 🔧 Core Features

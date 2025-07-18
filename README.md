@@ -6,27 +6,39 @@ This project is a command-line banking system coded in classic C++ style with ol
 🔧 Core Features
 -----------------
 👤 User Account Management
+
 New user registration
+
 View existing user info
+
 Update & delete user records
+
 Search user by ID
+
 
 💰 Transactions
 -----------------
 Deposit and withdraw funds
+
 Transfer money between accounts
+
 Pay utility bills
+
 
 🏧 ATM System
 ---------------
 User login using ID, PIN & password
+
 Balance check
+
 ATM-style withdrawal
+
 Account detail viewing
+
+
 
 📞 Contact
 ----------
-
 For any queries or suggestions, feel free to reach out:
 
 *   **👤 Name:** Devangi Inani

@@ -36,6 +36,8 @@ ATM-style withdrawal
 Account detail viewing
 
 
+<img width="732" height="236" alt="Image" src="https://github.com/user-attachments/assets/32633e8d-7a07-42f7-8ffb-846fac4ff1ad" />
+
 
 📞 Contact
 ----------
